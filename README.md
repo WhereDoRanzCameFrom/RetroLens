@@ -2,7 +2,7 @@
 
 Retrolens is an interactive Computer Vision and Digital Image Processing (DIP) project that applies real-time gesture-based camera filters using MediaPipe hand landmark tracking and OpenCV image manipulations.
 
----
+# *The main source code of this project is stored in a private repository for security and copyright reasons.*
 
 ## 📝 Project Overview
 
